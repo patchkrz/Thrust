@@ -1,0 +1,38 @@
+   Module        Real Time   CPU Time     Memory          Size
+_______________________________________________________________________
+
+           siwave_ng 2018.0.0 (Built: Dec  4 2017 00:43:16)
+    Commenced on host DESKTOP-NMJHJJ9 at Mon May 04 20:42:15 2020
+
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          |                     |
+| solve_setup   | 00:00:01 | 00:00:00 |   69020K |        1 project    |
+------------------------------------------------------------------------
+         Finished on DESKTOP-NMJHJJ9 at 05/04/2020 20:42:16
+
+
+    SIwave DC IR solver 2018.0.0 Dec  4 2017 at 00:31:22 beginning
+            D:\ANSYS\AnsysEM19.0\Win64\sidirect_solver.exe
+               on DESKTOP-NMJHJJ9 at 05/04/2020 20:42:16
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          | Number of Elements  |
+| InitMesh      | 00:00:02 | 00:00:01 |      44M |    16651 triangles  |
+| PreProc       | 00:00:00 | 00:00:00 |      44M |    16651 triangles  |
+| AdaptMesh_1   | 00:00:00 | 00:00:00 |      44M |    19426 triangles  |
+| Solve(1p)_1   | 00:00:01 | 00:00:00 |      51M |    13804 unknowns   |
+| ErrorCalc_1   | 00:00:00 | 00:00:00 |      51M |    19426 triangles  |
+| AdaptMesh_2   | 00:00:00 | 00:00:00 |      51M |    24478 triangles  |
+| Solve(1p)_2   | 00:00:00 | 00:00:00 |      55M |    16615 unknowns   |
+| ErrorCalc_2   | 00:00:00 | 00:00:00 |      55M |    24478 triangles  |
+| AdaptMesh_3   | 00:00:00 | 00:00:00 |      55M |    30846 triangles  |
+| Solve(1p)_3   | 00:00:00 | 00:00:00 |      61M |    20029 unknowns   |
+| ErrorCalc_3   | 00:00:00 | 00:00:00 |      61M |    30846 triangles  |
+| PostProc      | 00:00:01 | 00:00:00 |      61M |      120 elements   |
+| PowerMap      | 00:00:04 | 00:00:03 |     132M |    30846 triangles  |
+| ResCalc       | 00:00:00 | 00:00:00 |     132M |       18 terminals  |
+------------------------------------------------------------------------
+          Finished on DESKTOP-NMJHJJ9 at 05/04/2020 20:42:24
+
+_______________________________________________________________________

@@ -1,0 +1,14 @@
+B_FLOW_GEN_CIRCUIT_ELEMENTS
+  "RLC_XYZ_J" "J6" "Voltage Source" "NA" "11.1V" "11.1V" "GND"
+  "RLC_XYZ_U" "U2" "Voltage Source" "NA" "11.1V" "IP-" "GND"
+  "RLC_XYZ_U" "U2" "Current Source" "Constant Voltage" "0.012A" "11.1V" "GND"
+  "RLC_XYZ_U" "U2" "Current Source" "Constant Voltage" "0.015A" "5V" "GND"
+  "RLC_XYZ_U" "U7" "Current Source" "Constant Voltage" "0.008A" "5V" "GND"
+  "RLC_XYZ_U" "U7" "Voltage Source" "NA" "3.3V" "3.3V" "GND"
+  "RLC_XYZ_U" "U5" "Current Source" "Constant Voltage" "3.6e-05A" "11.1V" "GND"
+  "RLC_XYZ_U" "U5" "Voltage Source" "NA" "5V" "5V" "GND"
+  "RLC_XYZ_U" "U8" "Current Source" "Constant Voltage" "0.1A" "3.3V" "GND"
+  "RLC_XYZ_U" "U3" "Current Source" "Constant Voltage" "1e-06A" "3.3V" "GND"
+  "RLC_XYZ_J" "J7" "Current Source" "Constant Voltage" "26A" "IP-" "GND"
+E_FLOW_GEN_CIRCUIT_ELEMENTS
+

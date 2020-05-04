@@ -1,0 +1,9 @@
+# Validation Check Errors/Warnings
+# BEGIN LIST
+
+Disjoint Net Error
+ net "11.1V"
+Disjoint Net Error
+ net "NetR8_1"
+
+# END LIST

@@ -1,0 +1,33 @@
+           siwave_ng 2018.0.0 (Built: Dec  4 2017 00:43:16)
+    Commenced on host DESKTOP-NMJHJJ9 at Mon May 04 19:48:09 2020
+
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          |                     |
+| solve_setup   | 00:00:00 | 00:00:00 |   67484K |        1 project    |
+------------------------------------------------------------------------
+         Finished on DESKTOP-NMJHJJ9 at 05/04/2020 19:48:09
+
+
+    SIwave DC IR solver 2018.0.0 Dec  4 2017 at 00:31:22 beginning
+            D:\ANSYS\AnsysEM19.0\Win64\sidirect_solver.exe
+               on DESKTOP-NMJHJJ9 at 05/04/2020 19:48:10
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          | Number of Elements  |
+| InitMesh      | 00:00:01 | 00:00:01 |      40M |    14158 triangles  |
+| PreProc       | 00:00:01 | 00:00:00 |      40M |    14158 triangles  |
+| AdaptMesh_1   | 00:00:00 | 00:00:00 |      40M |    16786 triangles  |
+| Solve(1p)_1   | 00:00:00 | 00:00:00 |      45M |    12148 unknowns   |
+| ErrorCalc_1   | 00:00:00 | 00:00:00 |      45M |    16786 triangles  |
+| AdaptMesh_2   | 00:00:00 | 00:00:00 |      45M |    21154 triangles  |
+| Solve(1p)_2   | 00:00:00 | 00:00:00 |      49M |    14601 unknowns   |
+| ErrorCalc_2   | 00:00:00 | 00:00:00 |      49M |    21154 triangles  |
+| AdaptMesh_3   | 00:00:00 | 00:00:00 |      50M |    26677 triangles  |
+| Solve(1p)_3   | 00:00:01 | 00:00:00 |      55M |    17594 unknowns   |
+| ErrorCalc_3   | 00:00:00 | 00:00:00 |      55M |    26677 triangles  |
+| PostProc      | 00:00:00 | 00:00:00 |      55M |      102 elements   |
+| PowerMap      | 00:00:03 | 00:00:03 |     119M |    26677 triangles  |
+| ResCalc       | 00:00:00 | 00:00:00 |     119M |       18 terminals  |
+------------------------------------------------------------------------
+          Finished on DESKTOP-NMJHJJ9 at 05/04/2020 19:48:16

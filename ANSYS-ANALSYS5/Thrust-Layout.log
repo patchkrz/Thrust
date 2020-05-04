@@ -1,0 +1,21 @@
+--------------------- Mon May 04 23:48:38 2020 ---------------------
+
+Creating SIwave session log C:\Users\EFE\Documents\altium_workspace\Thrust_2\ANSYS-ANALSYS5\Thrust-Layout.log
+OS: Windows 10 Professional  (Build 18362)
+
+Saved C:\Users\EFE\Documents\altium_workspace\Thrust_2\ANSYS-ANALSYS5\Thrust-Layout.siw
+Reading DC solution data...
+Building DC surface plot(s)...
+Building DC current density/voltage plot for layer Top_Layer...done.
+Building DC current density/voltage plot for layer Bottom_Layer...done.
+Building DC current density/voltage plot for vias...done.
+Reading element data...done.
+Building DC current magnitude plot for layer Top_Layer...done.
+Building DC current magnitude plot for layer Bottom_Layer...done.
+Building DC current magnitude plot for vias...done.
+
+
+--------------------- Mon May 04 23:53:49 2020 ---------------------
+
+Appending to SIwave session log C:\Users\EFE\Documents\altium_workspace\Thrust_2\ANSYS-ANALSYS5\Thrust-Layout.log
+Saved C:\Users\EFE\Documents\altium_workspace\Thrust_2\ANSYS-ANALSYS5\Thrust-Layout.siw

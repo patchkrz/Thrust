@@ -1,0 +1,22 @@
+Added Component: Designator=U8(TSOP20)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=BOOT0 Pin=U8-1
+Added Pin To Net: NetName=SCK_OUT Pin=U8-2
+Added Pin To Net: NetName=DATA_IN Pin=U8-3
+Added Pin To Net: NetName=NRST Pin=U8-4
+Added Pin To Net: NetName=3.3V Pin=U8-5
+Added Pin To Net: NetName=ADC_IN Pin=U8-7
+Added Pin To Net: NetName=TX Pin=U8-8
+Added Pin To Net: NetName=RX Pin=U8-9
+Added Pin To Net: NetName=TEST_LED Pin=U8-10
+Added Pin To Net: NetName=IR_LED_OUT Pin=U8-11
+Added Pin To Net: NetName=TIM3_CH1 Pin=U8-12
+Added Pin To Net: NetName=PULL_DOWN0 Pin=U8-13
+Added Pin To Net: NetName=PULL_DOWN1 Pin=U8-14
+Added Pin To Net: NetName=GND Pin=U8-15
+Added Pin To Net: NetName=3.3V Pin=U8-16
+Added Pin To Net: NetName=SCL Pin=U8-17
+Added Pin To Net: NetName=SDA Pin=U8-18
+Added Pin To Net: NetName=SWDIO Pin=U8-19
+Added Pin To Net: NetName=SWCLK Pin=U8-20
+Added Member To Class: ClassName=Thrust-Schematic Member=Component U8 STM32F030

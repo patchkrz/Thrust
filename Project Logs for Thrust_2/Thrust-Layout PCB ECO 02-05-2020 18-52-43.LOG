@@ -1,0 +1,9 @@
+Change Component Comment : Designator=J2 Old Comment=LOADCELL New Comment=JST_XH_A_4
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=DATA_IN Pin=J2-2
+Added Pin To Net: NetName=SCK_OUT Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=IR_LED_IN Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-3
+Added Pin To Net: NetName=GND Pin=J9-4

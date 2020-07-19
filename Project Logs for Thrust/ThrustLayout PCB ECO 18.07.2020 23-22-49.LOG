@@ -1,0 +1,10 @@
+Added Component: Designator=U5(SOIC8)
+Added Pin To Net: NetName=11.1V Pin=U5-1
+Added Pin To Net: NetName=DRV Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=NetR8_1 Pin=U5-5
+Added Pin To Net: NetName=5V Pin=U5-6
+Added Pin To Net: NetName=BST Pin=U5-7
+Added Pin To Net: NetName=NetC10_2 Pin=U5-8
+Added Member To Class: ClassName=Thrust-Schematic Member=Component U5 NVC891330

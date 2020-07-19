@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=11.1V Pin=U5-1
+Removed Pin From Net: NetName=DRV Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Pin From Net: NetName=NetR8_1 Pin=U5-5
+Removed Pin From Net: NetName=5V Pin=U5-6
+Removed Pin From Net: NetName=BST Pin=U5-7
+Removed Pin From Net: NetName=NetC10_2 Pin=U5-8
+Removed Member From Class: ClassName=Thrust-Schematic Member=U5
+Added Room: Name=Thrust-Schematic

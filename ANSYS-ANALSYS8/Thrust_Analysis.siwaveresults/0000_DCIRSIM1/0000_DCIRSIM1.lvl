@@ -1,0 +1,18 @@
+B_PARAMS
+
+ Triangles 8461
+ Tetrahedra 0
+
+ ResMat 3
+  GND:I_2_neg    4.851289033108e-004    0.000000000000e+000    0.000000000000e+000
+  11.1V:I_1_pos    0.000000000000e+000    2.629318353558e-004    0.000000000000e+000
+  IP-:I_1_neg    0.000000000000e+000    0.000000000000e+000    2.521565126766e-004
+ EndResMat
+
+ Sinks 3
+  GND:V_1_neg
+  11.1V:V_1_pos
+  IP-:I_2_pos
+ EndSinks
+
+E_PARAMS

@@ -1,0 +1,6 @@
+V_1 I_1 Inf
+V_1 I_2 Inf
+I_1 V_1 Inf
+I_1 I_2 Inf
+I_2 V_1 Inf
+I_2 I_1 Inf

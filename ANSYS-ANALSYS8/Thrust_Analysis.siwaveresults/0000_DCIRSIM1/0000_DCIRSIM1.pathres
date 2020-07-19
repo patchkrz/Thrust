@@ -1,0 +1,15 @@
+V_1_p V_1_n Inf
+V_1_p I_1_p 2.629318353558e-004
+V_1_p I_1_n Inf
+V_1_p I_2_p Inf
+V_1_p I_2_n Inf
+V_1_n I_1_p Inf
+V_1_n I_1_n Inf
+V_1_n I_2_p Inf
+V_1_n I_2_n 4.851289033108e-004
+I_1_p I_1_n Inf
+I_1_p I_2_p Inf
+I_1_p I_2_n Inf
+I_1_n I_2_p 2.521565126766e-004
+I_1_n I_2_n Inf
+I_2_p I_2_n Inf

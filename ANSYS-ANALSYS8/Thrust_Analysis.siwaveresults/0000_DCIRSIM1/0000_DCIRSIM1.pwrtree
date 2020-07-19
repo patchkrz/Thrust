@@ -1,0 +1,22 @@
+B_NODE "V_1"
+  IN_NET "(NULL)"
+  OUT_NET "11.1V"
+E_NODE
+B_NODE "I_1"
+  IN_NET "11.1V"
+  OUT_NET "IP-"
+E_NODE
+B_NODE "I_2"
+  IN_NET "IP-"
+  OUT_NET "(NULL)"
+E_NODE
+B_NODE "R8"
+  IN_NET "11.1V"
+  OUT_NET "NetR8_1"
+  DCR 50
+E_NODE
+B_NODE "R9"
+  IN_NET "NetR8_1"
+  OUT_NET "(NULL)"
+  DCR 50
+E_NODE

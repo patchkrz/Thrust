@@ -1,76 +1,25 @@
 *************************************************************
-FileName = ThrustLayout.PcbDoc
-ODB++ directory structure
+FileName = ThrustLayout.GBR
+AutoAperture = True
 *************************************************************
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\matrix\matrix
+Generating : Non-plated through-hole drill file
+      File : ThrustLayout_NPTH_Drill.gbr
 
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\profile
 
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\stephdr
+Used DCodes :
+    D10
+*************************************************************
 
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\attrlist
+*************************************************************
+Generating : Plated through-hole drill file
+      File : ThrustLayout_PTH_Drill.gbr
 
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\bottom_layer\features
 
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\bottom_layer\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\top_paste\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\top_paste\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\top_solder\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\top_solder\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\mechanical_1\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\mechanical_1\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\mechanical_13\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\mechanical_13\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\mechanical_15\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\mechanical_15\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\bottom_overlay\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\bottom_overlay\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\top_layer\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\top_layer\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\keep-out_layer\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\keep-out_layer\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\top_overlay\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\top_overlay\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\bottom_solder\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\bottom_solder\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\bottom_paste\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\bottom_paste\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\drill\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\drill\attrlist
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\drill\tools
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\comp_+_top\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\comp_+_top\components
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\rout\features
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\layers\rout\tools
-
-Generated File : C:\Users\lenovo\Desktop\Thrust2\Thrust\Project Outputs for Thrust\odb\steps\pcb\eda\data
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
 

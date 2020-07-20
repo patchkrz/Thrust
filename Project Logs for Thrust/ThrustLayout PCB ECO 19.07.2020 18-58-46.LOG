@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IR_LED_IN Pin=J9-1
+Removed Pin From Net: NetName=GND Pin=J9-2
+Removed Pin From Net: NetName=GND Pin=J9-4
+Removed Member From Class: ClassName=Thrust-Schematic Member=J9
+Added Member To Class: ClassName=Thrust-Schematic Member=Component J1 I2C
+Added Room: Name=Thrust-Schematic

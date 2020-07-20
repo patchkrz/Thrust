@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=P2-1
+Removed Pin From Net: NetName=TIM3_CH1 Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Member From Class: ClassName=Thrust-Schematic Member=P2
+Added Member To Class: ClassName=Thrust-Schematic Member=Component J3 JST_XH_A_2
+Added Member To Class: ClassName=Thrust-Schematic Member=Component J4 JST_XH_A_2
+Added Room: Name=Thrust-Schematic

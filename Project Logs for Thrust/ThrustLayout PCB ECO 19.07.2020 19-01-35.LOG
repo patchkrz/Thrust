@@ -1,0 +1,8 @@
+Added Component: Designator=J3(JST_XH_A_2)
+Added Component: Designator=J4(JST_XH_A_2)
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=PULL_DOWN0 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=PULL_DOWN1 Pin=J4-2
+Added Member To Class: ClassName=Thrust-Schematic Member=Component J3 JST_XH_A_2
+Added Member To Class: ClassName=Thrust-Schematic Member=Component J4 JST_XH_A_2

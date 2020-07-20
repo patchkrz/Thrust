@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetC10_2 Pin=D1-2
+Added Member To Class: ClassName=Thrust-Schematic Member=Component D1 LED0805

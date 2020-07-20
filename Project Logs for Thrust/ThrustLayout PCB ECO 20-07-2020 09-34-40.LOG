@@ -1,0 +1,6 @@
+Added Component: Designator=H1(MOUNTING HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(MOUNTING HOLE)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Thrust-Schematic Member=Component H1 MOUNTING HOLE
+Added Member To Class: ClassName=Thrust-Schematic Member=Component H2 MOUNTING HOLE

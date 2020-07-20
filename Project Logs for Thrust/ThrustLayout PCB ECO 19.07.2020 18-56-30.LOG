@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SCL Pin=J1-1
+Removed Pin From Net: NetName=SDA Pin=J1-2
+Removed Pin From Net: NetName=3.3V Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=5V Pin=J1-5
+Removed Member From Class: ClassName=Thrust-Schematic Member=J1
+Added Member To Class: ClassName=Thrust-Schematic Member=Component P1 UART_MATLAB
+Added Room: Name=Thrust-Schematic

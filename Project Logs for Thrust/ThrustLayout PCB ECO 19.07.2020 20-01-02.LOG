@@ -1,0 +1,5 @@
+Added Component: Designator=P2(Pin_Header_1x3)
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=TIM3_CH1 Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Member To Class: ClassName=Thrust-Schematic Member=Component P2 ESC

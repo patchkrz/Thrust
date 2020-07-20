@@ -1,0 +1,135 @@
+[Sun Jul 19 21:04:49 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0050 siwave_ng 2018.0.0 (Built: Dec  4 2017 00:43:16):
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Loading project...:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Initializing layout database...:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0050 Simulation "DCIRSIM1" started on host LAPTOP-PCCT4HMU at Sun Jul 19 21:04:50 2020:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Generating solver input files...:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0117 All geometry on net "DUMMY" will be ignored:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0050 [Simulation Directory]: "C:/siwave5/PCB.siwaveresults/0000_DCIRSIM1/":
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0050 [Simulation Log File]: "C:/siwave5/PCB.siwaveresults/0000_DCIRSIM1/0000_DCIRSIM1.simlog":
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:progress  5.000000:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Identifying nets for inclusion in simulation...:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0051 11.1V:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0051 GND:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0051 IP-:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0051 NetR8_1:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:progress  10.000000:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Performing basic DRC...:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Identifying non-functional pads...:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:progress  20.000000:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:progress  25.000000:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Identifying geometry to process...:
+[Sun Jul 19 21:04:50 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Generating antipads in planes...:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Processing planes...:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:progress  50.000000:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:progress  60.000000:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:progress  70.000000:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Processing circuit elements...:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C1: negative node at (98.075006,75.475013) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C2: positive node at (93.629310,67.875018) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C3: positive node at (96.573312,67.875018) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C4: positive node at (99.367312,67.875018) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C5: positive node at (102.017307,67.875018) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C6: positive node at (97.975001,83.349998) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C9: negative node at (126.904257,78.221002) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C10: positive node at (122.825005,70.250002) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C11: positive node at (102.166750,55.724999) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C12: positive node at (115.841750,55.724999) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0100 C13: positive node at (108.975002,55.724999) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0101 L1: positive node at (123.799999,64.700000) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0104 R1: negative node at (98.075006,71.025001) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0104 R2: positive node at (100.074999,78.125000) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0104 R3: positive node at (81.250003,78.400001) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0104 R4: positive node at (81.250003,74.100002) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0104 R5: negative node at (92.925016,80.850003) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0104 R6: positive node at (92.975003,83.300001) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0104 R7: positive node at (120.599998,85.024999) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0104 R10: positive node at (127.725002,61.525000) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:warning 0104 R11: positive node at (116.455998,66.501998) on layer top_layer is not attached to any net included in this simulation:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:progress  80.000000:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Writing solver input files...:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0050 Negative terminal (attached to net GND) of V_1 has been set to 0V (ideal ground):
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:progress  95.000000:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:progress  100.000000:
+[Sun Jul 19 21:04:51 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:message Solving for DC voltage/current distribution... :
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Initializing the problem 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 1 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Setting up solution materials 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 2 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Reading geometry file 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 3 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Reading layer stack up 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 4 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Setting up circuit graph 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 5 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Creating 2 layer meshes 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 10 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message   Meshing Layer #1 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 20 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message   Meshing Layer #2 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 30 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Combining 2 layer meshes 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 40 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message   Appending Layer #2 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 43 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message   Appending Layer #1 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 46 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Meshing vias and bondwires 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 50 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Adding mesh to the circuit graph 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 55 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Initializing unknown and source information 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 60 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:warning 0122 source I_1 has no return path 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:warning 0122 source I_2 has no return path 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 1: Refining mesh 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 61 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 1: Filling system matrix 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 62 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 1: Solving system matrix 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 63 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 1: Computing energy error 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 65 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 2: Refining mesh 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 67 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 2: Filling system matrix 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 69 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 2: Solving system matrix 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 70 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 2: Computing energy error 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 71 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 3: Refining mesh 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 74 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 3: Filling system matrix 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 75 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 3: Solving system matrix 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 76 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 3: Computing energy error 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 78 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 4: Refining mesh 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 80 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 4: Filling system matrix 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 82 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 4: Solving system matrix 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 83 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 4: Computing energy error 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 84 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 5: Refining mesh 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 87 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 5: Filling system matrix 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 88 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 5: Solving system matrix 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 89 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 5: Computing energy error 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 91 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Solution not converged after 5 passes 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Iteration 5: Writing solution information - do not exit simulation! 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 92 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Writing Thermal Data 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message   Writing Thermal Layer bottom_layer 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message   Writing Thermal Layer top_layer 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Deleting problem 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 99 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:message Finished 
+C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe:progress 100 
+[Sun Jul 19 21:04:56 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0050 DC solver completed with return code 0:
+[Sun Jul 19 21:04:56 2020] C:\Program Files\AnsysEM\AnsysEM19.0\Win64\siwave_ng.exe:information 0050 Simulation "DCIRSIM1" completed on host LAPTOP-PCCT4HMU at Sun Jul 19 21:04:56 2020:

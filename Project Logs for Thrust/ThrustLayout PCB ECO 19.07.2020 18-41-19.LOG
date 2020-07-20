@@ -1,0 +1,6 @@
+Added Component: Designator=J2(JST_XH_A_4)
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=DATA_IN Pin=J2-2
+Added Pin To Net: NetName=SCK_OUT Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Member To Class: ClassName=Thrust-Schematic Member=Component J2 JST_XH_A_4

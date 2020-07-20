@@ -1,0 +1,33 @@
+--------------------- Sun Jul 19 21:04:36 2020 ---------------------
+
+Creating SIwave session log C:\siwave5\PCB.log
+OS: Windows 10 Professional  (Build 18362)
+
+Saved C:\siwave5\PCB.siw
+Reading DC solution data...
+Building DC surface plot(s)...
+Building DC current density/voltage plot for layer top_layer...done.
+Building DC current density/voltage plot for layer bottom_layer...done.
+Building DC current density/voltage plot for vias...done.
+Reading element data...done.
+Building DC current magnitude plot for layer top_layer...done.
+Building DC current magnitude plot for layer bottom_layer...done.
+Building DC current magnitude plot for vias...done.
+
+
+--------------------- Sun Jul 19 21:07:15 2020 ---------------------
+
+Appending to SIwave session log C:\siwave5\PCB.log
+Saved C:\siwave5\PCB.siw
+
+
+--------------------- Sun Jul 19 21:07:20 2020 ---------------------
+
+Appending to SIwave session log C:\siwave5\PCB.log
+Saved C:\siwave5\PCB.siw
+
+
+--------------------- Sun Jul 19 21:07:22 2020 ---------------------
+
+Appending to SIwave session log C:\siwave5\PCB.log
+Saved C:\siwave5\PCB.siw

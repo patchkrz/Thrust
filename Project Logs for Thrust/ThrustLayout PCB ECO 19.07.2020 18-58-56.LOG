@@ -1,0 +1,8 @@
+Added Component: Designator=J9(JST_XH_A_4)
+Added Pin To Net: NetName=IR_LED_IN Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-3
+Added Pin To Net: NetName=NetJ9_3 Pin=R4-1
+Added Net: Name=NetJ9_3
+Added Member To Class: ClassName=Thrust-Schematic Member=Component J9 JST_XH_A_4

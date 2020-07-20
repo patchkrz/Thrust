@@ -1,0 +1,45 @@
+   Module        Real Time   CPU Time     Memory          Size
+_______________________________________________________________________
+
+           siwave_ng 2018.0.0 (Built: Dec  4 2017 00:43:16)
+    Commenced on host LAPTOP-PCCT4HMU at Sun Jul 19 21:04:50 2020
+
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          |                     |
+| solve_setup   | 00:00:01 | 00:00:00 |   62456K |        1 project    |
+------------------------------------------------------------------------
+         Finished on LAPTOP-PCCT4HMU at 07/19/2020 21:04:51
+
+
+    SIwave DC IR solver 2018.0.0 Dec  4 2017 at 00:31:22 beginning
+    C:\Program Files\AnsysEM\AnsysEM19.0\Win64\sidirect_solver.exe
+               on LAPTOP-PCCT4HMU at 07/19/2020 21:04:53
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          | Number of Elements  |
+| InitMesh      | 00:00:01 | 00:00:00 |      23M |     4668 triangles  |
+| PreProc       | 00:00:00 | 00:00:00 |      23M |     4668 triangles  |
+| AdaptMesh_1   | 00:00:00 | 00:00:00 |      24M |     6837 triangles  |
+| Solve(1p)_1   | 00:00:00 | 00:00:00 |      27M |     3334 unknowns   |
+| ErrorCalc_1   | 00:00:00 | 00:00:00 |      27M |     6837 triangles  |
+| AdaptMesh_2   | 00:00:00 | 00:00:00 |      27M |     7182 triangles  |
+| Solve(1p)_2   | 00:00:00 | 00:00:00 |      28M |     3525 unknowns   |
+| ErrorCalc_2   | 00:00:00 | 00:00:00 |      28M |     7182 triangles  |
+| AdaptMesh_3   | 00:00:00 | 00:00:00 |      28M |     7543 triangles  |
+| Solve(1p)_3   | 00:00:00 | 00:00:00 |      28M |     3724 unknowns   |
+| ErrorCalc_3   | 00:00:00 | 00:00:00 |      28M |     7543 triangles  |
+| AdaptMesh_4   | 00:00:00 | 00:00:00 |      28M |     7925 triangles  |
+| Solve(1p)_4   | 00:00:00 | 00:00:00 |      29M |     3931 unknowns   |
+| ErrorCalc_4   | 00:00:00 | 00:00:00 |      29M |     7925 triangles  |
+| AdaptMesh_5   | 00:00:00 | 00:00:00 |      29M |     8326 triangles  |
+| Solve(1p)_5   | 00:00:00 | 00:00:00 |      29M |     4143 unknowns   |
+| ErrorCalc_5   | 00:00:00 | 00:00:00 |      29M |     8326 triangles  |
+| Solution not converged. Final error is 4.23593 %                     |
+| PostProc      | 00:00:00 | 00:00:00 |      29M |       68 elements   |
+| PowerMap      | 00:00:00 | 00:00:00 |      34M |     8326 triangles  |
+| ResCalc       | 00:00:00 | 00:00:00 |      34M |        6 terminals  |
+------------------------------------------------------------------------
+          Finished on LAPTOP-PCCT4HMU at 07/19/2020 21:04:55
+
+_______________________________________________________________________

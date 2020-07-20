@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X5 New Footprint=Pin_Header_1x5
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X5 New Footprint=Pin_Header_1x5
+Change component parameters: Designator = "P1" ("P1"); Footprint = "HDR1X5"; UniqueID = "\AUSJXJSW" ("\AUSJXJSW")
+Change component parameters: Designator = "P3" ("P3"); Footprint = "HDR1X5"; UniqueID = "\JOREDDUX" ("\JOREDDUX")
+Added Member To Class: ClassName=Thrust-Schematic Member=Component P2 ESC
+Added Room: Name=Thrust-Schematic
